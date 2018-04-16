@@ -6,4 +6,6 @@ This is a repository for demonstrating merge conflicts - to support my [medium b
 
 * Then we cover using the command line and how to handle merge conflicts between local and remote repositories. :sparkles:
 
+* Afte this we will take a quick look at merging using the GitHub Desktop App :+1:
+
 You can read the blog post to find out more :heart:
